@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "country": "Japan",
+        "capital": "Tokyo",
+        "population": 125800000,
+        "fact": "Japan is home to the world’s oldest continuous monarchy."
+    },
+    {
+        "id": 2,
+        "country": "Brazil",
+        "capital": "Brasília",
+        "population": 213993437,
+        "fact": "Brazil is the largest country in South America and is famous for the Amazon Rainforest."
+    },
+    {
+        "id": 3,
+        "country": "Egypt",
+        "capital": "Cairo",
+        "population": 104124440,
+        "fact": "Egypt is known for its ancient civilization and the Great Pyramids of Giza."
+    },
+    {
+        "id": 4,
+        "country": "Australia",
+        "capital": "Canberra",
+        "population": 25690000,
+        "fact": "Australia is both a country and a continent, known for its unique wildlife."
+    },
+    {
+        "id": 5,
+        "country": "Canada",
+        "capital": "Ottawa",
+        "population": 38850000,
+        "fact": "Canada has the longest coastline of any country in the world."
+    },
+    {
+        "id": 6,
+        "country": "India",
+        "capital": "New Delhi",
+        "population": 1400000000,
+        "fact": "India is the world's second-most populous country, with over 1.4 billion people."
+    },
+    {
+        "id": 7,
+        "country": "Italy",
+        "capital": "Rome",
+        "population": 60250000,
+        "fact": "Italy is famous for its rich history, art, and cuisine, including pizza and pasta."
+    },
+    {
+        "id": 8,
+        "country": "Russia",
+        "capital": "Moscow",
+        "population": 145912025,
+        "fact": "Russia is the largest country in the world by land area, spanning 11 time zones."
+    },
+    {
+        "id": 9,
+        "country": "South Africa",
+        "capital": "Pretoria (administrative), Bloemfontein (judicial), Cape Town (legislative)",
+        "population": 59308690,
+        "fact": "South Africa is known as the 'Rainbow Nation' due to its diverse cultures and languages."
+    },
+    {
+        "id": 10,
+        "country": "France",
+        "capital": "Paris",
+        "population": 65273511,
+        "fact": "France is famous for its art, fashion, and the Eiffel Tower, located in Paris."
+    },
+    {
+        "id": 11,
+        "country": "Mexico",
+        "capital": "Mexico City",
+        "population": 130262216,
+        "fact": "Mexico is known for its rich history, including ancient civilizations like the Aztecs and Mayans."
+    },
+    {
+        "id": 12,
+        "country": "New Zealand",
+        "capital": "Wellington",
+        "population": 5083000,
+        "fact": "New Zealand was the first country to grant women the right to vote in 1893."
+    }
+]
